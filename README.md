@@ -39,7 +39,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 * Database
 
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="FireBase" src ="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img alt="FireBase" src ="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black"/>
   <!-- <img alt="postGres" src ="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> -->
   <!-- <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
 
