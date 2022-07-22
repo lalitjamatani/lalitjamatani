@@ -59,7 +59,3 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@lalitjamatani).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/lalit-jamatani/)
 - And of course GitHub you're already on (Recursion).
-
-## Github Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lalitjamatani&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="LalitJamatani " align="center" height="250" />
