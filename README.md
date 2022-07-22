@@ -42,10 +42,10 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
   <img alt="FireBase" src ="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black"/>
   <!-- <img alt="postGres" src ="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> -->
   <!-- <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
-
+<!-- 
 * CI (Continous integration) / CD (Continuous delivery)
 
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> -->
 
 ## 🌱 I’m currently learning
 
