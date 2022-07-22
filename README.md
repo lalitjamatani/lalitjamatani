@@ -62,4 +62,4 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lalitjamatani&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="LalitJamatani " height="350" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lalitjamatani&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="LalitJamatani " align="center" height="250" />
